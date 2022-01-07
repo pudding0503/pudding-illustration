@@ -12,7 +12,9 @@
   <a href="https://www.pixiv.net/users/69771423">
   	<img alt="Pixiv" src="https://img.shields.io/badge/Pixiv-147FE4?style=for-the-badge&logo=pixiv&logoColor=white" />
   </a>
+  <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwindmill0503%2Fpudding-illustration&label=%E6%B5%8F%E8%A7%88%E9%87%8F&labelColor=%23152136&countColor=%23ff8a65" />
 </p>
+
 
 ### 🍮 布丁是谁？
 
@@ -31,6 +33,6 @@
 
 ### © 版权
 
-[MIT license](https://github.com/windmill0503/pudding-illustration/blob/master/LICENSE)
+[License](https://github.com/windmill0503/pudding-illustration/blob/master/LICENSE)
 
 个人日常随意使用，转载需保留作者信息，不得盗用、冒用、窃取等。
