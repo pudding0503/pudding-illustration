@@ -3,7 +3,7 @@
  <h2 align="center">布丁的插画集</h2>
 </p>
 <p align="center">
-  <a href="https://github.com/windmill0503/pudding-illustration">
+  <a href="https://github.com/pudding0503/pudding-illustration">
   	<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.behance.net/haoning">
@@ -12,7 +12,7 @@
   <a href="https://www.pixiv.net/users/69771423">
   	<img alt="Pixiv" src="https://img.shields.io/badge/Pixiv-3996FB?style=for-the-badge&logo=pixiv&logoColor=white" />
   </a>
-  <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwindmill0503%2Fpudding-illustration&label=%E6%B5%8F%E8%A7%88%E9%87%8F&labelColor=%23152136&countColor=%23ff8a65" />
+  <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpudding0503%2Fpudding-illustration&label=%E6%B5%8F%E8%A7%88%E9%87%8F&labelColor=%23152136&countColor=%23ff8a65" />
 </p>
 
 
@@ -34,6 +34,6 @@
 
 ### © 版权
 
-[License](https://github.com/windmill0503/pudding-illustration/blob/master/LICENSE)
+[License](https://github.com/pudding0503/pudding-illustration/blob/master/LICENSE)
 
 个人日常随意使用，转载需保留作者信息，不得盗用、冒用、窃取等。
