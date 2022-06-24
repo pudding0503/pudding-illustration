@@ -29,6 +29,8 @@
 
 | 插画 |   作品名   | Pixiv 地址 | Behance 地址 |
 | :----------------------------------------------------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|<img src="assets/6-pudding.jpg" width="240px">|《全身立绘》|[查看](https://www.pixiv.net/artworks/99262676)|[查看](https://www.behance.net/gallery/146721913/Pudding-JK)|
+|<img src="assets/5-aquarium.jpg" width="240px">|《海洋馆》|[查看](https://www.pixiv.net/artworks/99247123)|[查看](https://www.behance.net/gallery/146662893/Aquarium)|
 | <img src="assets/4-rabbit-cosplay.jpg" width="240px"> | 《那兔 Cosplay》 | [查看](https://www.pixiv.net/artworks/97722612) | [查看](https://www.behance.net/gallery/141910191/Rabbit-Cosplay) |
 | <img src="assets/3-drink.jpg" width="240px"> | 《喝饮料》 | [查看](https://www.pixiv.net/artworks/97722555) | [查看](https://www.behance.net/gallery/141909257/Drink-Pudding) |
 | <img src="assets/2-giftbox.jpg" width="240px"> | 《礼物盒》 | [查看](https://www.pixiv.net/artworks/95340507) | [查看](https://www.behance.net/gallery/134497941/Gift-Box) |
